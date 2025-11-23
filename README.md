@@ -123,24 +123,4 @@ The app now runs at:
 http://localhost:8501
 
 # 5. Demo Video
-Demo Video: https://your-demo-video-link
-
-# 6. Tech Stack
-
-Python 3.9+
-
-Streamlit
-
-SentenceTransformers
-
-spaCy
-
-HuggingFace Transformers
-
-LanguageTool
-
-scikit-learn
-
-NumPy / Pandas
-
-Pydub (optional for audio)
+Demo Video: https://drive.google.com/file/d/1myf9L-M5twoJHhGy5rfUq3bu6vEWw8DN/view?usp=drive_link
